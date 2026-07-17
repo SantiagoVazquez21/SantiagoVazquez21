@@ -79,7 +79,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-vazquez-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-vazquez-b266b3374/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B1A?style=for-the-badge&logo=firefox&logoColor=white)](https://portafolio-santiago-vazquez.vercel.app)
 
 </div>
