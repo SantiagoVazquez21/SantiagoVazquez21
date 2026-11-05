@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B1A,1a1a2e&height=180&section=header&text=Santiago%20Vazquez&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20Full%20Stack%20%C2%B7%20Buenos%20Aires%2C%20Argentina&descSize=16&descAlignY=58&descColor=cccccc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B1A,1a1a2e&height=180&section=header&text=Santiago%20Elian%20Vazquez&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Desarrollador%20Full%20Stack%20%C2%B7%20Buenos%20Aires%2C%20Argentina&descSize=16&descAlignY=58&descColor=cccccc" />
 
 <div align="center">
 
@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td><strong>Backend</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,cs,dotnet,java,php,python" /></td>
+    <td><img src="https://skillicons.dev/icons?i=cs,dotnet,java,nodejs,express" /></td>
   </tr>
   <tr>
     <td><strong>Bases de datos</strong></td>
@@ -25,18 +25,9 @@
   </tr>
   <tr>
     <td><strong>Herramientas</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vercel,figma" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vercel,figma,idea" /></td>
   </tr>
 </table>
-
----
-
-### 📊 Estadísticas
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SantiagoVazquez21&show_icons=true&theme=github_dark&hide_border=true&icon_color=FF6B1A&ring_color=FF6B1A" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoVazquez21&layout=compact&theme=github_dark&hide_border=true" />
-</div>
 
 ---
 
@@ -64,7 +55,7 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/SantiagoVazquez21/2doISFT225_SantiagoVazquez_ProyectoTorneoFutbol5">
+      <a href="https://github.com/SantiagoVazquez21/torneo-futbol5">
         <strong>Torneo de Fútbol 5</strong>
       </a><br/>
       <sub>Inscripciones con categoría asignada por edad y sexo, y transacciones sobre 2 tablas</sub><br/>
@@ -76,6 +67,15 @@
       </a><br/>
       <sub>API REST con CRUD completo, en capas y deployada en Vercel</sub><br/>
       <sub><code>Node.js</code> <code>Express</code> <code>Supabase</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/SantiagoVazquez21/PracticaJavaJunior">
+        <strong>Práctica de Java — Fundamentos y POO</strong>
+      </a><br/>
+      <sub>34 proyectos: herencia, interfaces, clases abstractas, colecciones e interfaces con Swing</sub><br/>
+      <sub><code>Java</code> <code>Swing</code> <code>NetBeans</code></sub>
     </td>
   </tr>
 </table>
